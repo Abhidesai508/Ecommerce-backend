@@ -9,8 +9,9 @@
 Youtube: https://www.youtube.com/watch?v=Ncjw56XLfRA
 
 ## Screenshot
-    [Title](README.md) ![Title](<Assets/Screenshot 2023-08-07 at 3.04.47 AM.png>)
-    
+
+![MY SCREENSHOT](../Ecommerce-backend/Assets/Screenshot%202023-08-07%20at%203.04.47%20AM.png)
+
 ## Contributors:
 
 Abhishek Desai
