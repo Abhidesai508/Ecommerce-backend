@@ -2,7 +2,7 @@
 
 ## Description:
 
-    Here is the e-commerce backend database which uses Express.js. User can do CRUD operations in order to interac with MYSQL database.
+Here is the e-commerce backend database which uses Express.js. User can do CRUD operations in order to interac with MYSQL database.
 
 ## Recording:
 
